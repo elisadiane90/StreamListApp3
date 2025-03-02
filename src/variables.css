@@ -1,0 +1,10 @@
+:root {
+    --primary-color: #333;
+    --secondary-color: #666;
+    --background-light: #fff;
+    --background-dark: #222;
+    --text-light: #333;
+    --text-dark: #fff;
+    --nav-height: 60px;
+    --spacing-base: 1rem;
+  }
